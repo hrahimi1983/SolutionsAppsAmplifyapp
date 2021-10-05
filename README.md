@@ -1,0 +1,2 @@
+# SolutionsAppsAmplifyapp
+amplifyapp
